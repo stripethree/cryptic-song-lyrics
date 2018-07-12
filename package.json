@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/stripethree/cryptic-song-lyrics#readme",
   "dependencies": {
+    "@slack/client": "^4.3.1",
+    "debug": "^3.1.0",
     "eslint": "^5.1.0",
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-plugin-import": "^2.13.0",
