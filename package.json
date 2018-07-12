@@ -1,0 +1,19 @@
+{
+  "name": "cryptic-song-lyrics",
+  "version": "0.0.0",
+  "description": "A throwback to the days of AIM: a Slack application to save and reuse status messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stripethree/cryptic-song-lyrics.git"
+  },
+  "author": "Jeff Israel (jeff@stripethree.net)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stripethree/cryptic-song-lyrics/issues"
+  },
+  "homepage": "https://github.com/stripethree/cryptic-song-lyrics#readme"
+}
