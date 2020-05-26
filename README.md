@@ -2,6 +2,8 @@
 
 A throwback to the days of AIM: a Slack application to save and reuse status messages
 
+![Node.js CI](https://github.com/stripethree/cryptic-song-lyrics/workflows/Node.js%20CI/badge.svg)
+
 ## Prerequisites
 
 Access to a Slack team with the permissions to create an application and bot user are required. Slack will provide a `SLACK_APP_TOKEN` and this token needs to be available in the runtime environment.
