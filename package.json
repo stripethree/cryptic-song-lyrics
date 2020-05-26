@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/stripethree/cryptic-song-lyrics#readme",
   "dependencies": {
-    "@slack/client": "^4.3.1",
+    "@slack/client": "^5.0.2",
     "debug": "^4.1.1"
   },
   "devDependencies": {
